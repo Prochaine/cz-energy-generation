@@ -1,0 +1,6 @@
+dl/
+__pycache__/
+
+data/*.sqlite*
+ceps_vyroba.py
+vyroba_*.csv
